@@ -10,7 +10,7 @@ module.exports = {
     VERSION: 'V 1.0.0 PUBLIC',
     MENU: process.env.MENU_CMD=== undefined ? 'menu' : process.env.MENU_CMD,
     SESSION: process.env.SESSION_NAME === undefined ? 'session' : process.env.SESSION_NAME,
-    OWN_NUMBER: process.env.OWNER_NUMBER === undefined ? '94729352830' : process.env.OWN_NUMBER,
+    OWN_NUMBER: process.env.OWNER_NUMBER === undefined ? '254102028964' : process.env.OWN_NUMBER,
     OWN_NAME: process.env.OWNER_NAME === undefined ? 'ШHłТΞ HΛϾКΞЯS' : process.env.OWN_NAME,
     BOT_NAME: process.env.BOT_NAME === undefined ? '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] - ᎷᎠ' : process.env.BOT_NAME,
     ST_PKG: process.env.STICKER_PACKAGE === undefined ? '94729352830' : process.env.ST_PKG,
