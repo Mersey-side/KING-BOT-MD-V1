@@ -13,7 +13,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['254102028964']
-global.premium = ['254102028964']
+global.premium = ['254102028964' '254113246775' '25476882585' ]
 global.ownernomer = '254102028964'
 global.ownername = 'MERSEYSIDE'
 global.botname = '[MERSEYSIDE]'
@@ -40,7 +40,7 @@ global.mess = {
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
-    premium: "0113246775 , 0102028964",
+    premium: "0113246775 ,25476882585,0102028964",
     free: 112,
     monayawal: 1000
 }
